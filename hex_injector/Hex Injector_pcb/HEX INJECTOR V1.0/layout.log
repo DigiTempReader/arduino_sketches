@@ -1,0 +1,394 @@
+Mon Dec 01 15:50:16 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:50:16 Saved as file BACKUP1.MAX
+Mon Dec 01 15:50:16 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:50:16 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 01 15:50:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:50:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 15:50:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 15:50:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Mon Dec 01 15:50:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Mon Dec 01 15:50:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:50:17 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:50:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:51:33 Error code 5200.306
+Mon Dec 01 15:51:33 Saved as file Backup0.max
+Mon Dec 01 15:51:33 Windows which were open at time of error:
+Mon Dec 01 15:51:33 	ActiveWindow: Library Manager
+Mon Dec 01 15:51:33 End-of-list
+Mon Dec 01 15:51:33 Loaded file BACKUP0.MAX
+Mon Dec 01 15:58:42 Saved as file BACKUP1.MAX
+Mon Dec 01 15:58:42 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:58:42 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Mon Dec 01 15:58:42 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 15:58:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:58:43 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:58:43 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:58:43 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:59:16 Saved as file BACKUP1.MAX
+Mon Dec 01 15:59:16 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:59:16 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 01 15:59:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:59:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 15:59:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 15:59:16 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon Dec 01 15:59:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Mon Dec 01 15:59:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 01 15:59:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:59:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 15:59:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 15:59:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:59:17 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 15:59:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:09 Saved as file BACKUP1.MAX
+Mon Dec 01 16:00:09 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:09 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Mon Dec 01 16:00:09 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 16:00:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:10 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:10 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:10 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:49 Saved as file BACKUP1.MAX
+Mon Dec 01 16:00:49 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:49 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Mon Dec 01 16:00:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\MY.LLB
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:00:49 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:00:49 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:01:18 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:01:18 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:02:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:16 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:17 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 16:02:21 Loaded file C:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon Dec 01 16:02:22 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:02:29 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:37 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:37 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:37 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:37 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:02:38 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 16:02:42 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:02:49 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:08:33 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:08:53 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:08:53 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:08:53 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:08:53 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:08:54 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 16:08:57 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:09:00 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:10:11 Saved as file BACKUP1.MAX
+Mon Dec 01 16:19:36 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:19:50 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:20:02 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:20:29 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:21:11 Saved as file BACKUP1.MAX
+Mon Dec 01 16:26:20 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:26:51 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:31:12 Saved as file BACKUP1.MAX
+Mon Dec 01 16:41:02 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:41:12 Saved as file BACKUP1.MAX
+Mon Dec 01 16:44:44 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:45:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:45:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:45:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:45:05 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:45:06 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 16:45:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:45:11 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 16:49:26 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:50:42 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:51:42 Saved as file BACKUP1.MAX
+Mon Dec 01 16:54:49 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:55:58 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:56:15 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 16:56:21 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:02:25 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:03:08 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:03:08 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:03:09 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SMD_WAVE.LLB
+Mon Dec 01 17:03:10 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 17:03:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:03:13 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:03:14 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:03:43 Saved as file BACKUP1.MAX
+Mon Dec 01 17:03:43 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:04:15 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:04:56 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:04:59 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:05:34 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:05:39 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:06:57 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:07:08 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:18:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:18:06 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:18:07 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 17:18:17 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:18:30 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:18:30 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:18:31 Loaded file C:\USERS\ATRIM_PCB\DESKTOP\MY_LIB\SHA_CAD-1.LLB
+Mon Dec 01 17:18:36 Loaded file C:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Mon Dec 01 17:33:30 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:38:44 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX
+Mon Dec 01 17:44:09 Saved as file C:\USERS\ATRIM_PCB\DESKTOP\TEST\DESIGN31.MAX

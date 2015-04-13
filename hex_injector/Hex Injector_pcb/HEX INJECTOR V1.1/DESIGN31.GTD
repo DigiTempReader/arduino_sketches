@@ -1,0 +1,68 @@
+{Environment
+	{FilesPath  D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1}
+}
+{Layers
+	{Layer  1
+		{File        DESIGN31.BOT}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  red}
+		{DrawColor   red}
+		{Type        Bottom}
+	}
+	{Layer  2
+		{File        DESIGN31.SMB}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  yellow}
+		{DrawColor   yellow}
+		{Type        Other}
+	}
+	{Layer  3
+		{File        DESIGN31.SST}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  tan}
+		{DrawColor   tan}
+		{Type        Other}
+	}
+	{Layer  4
+		{File        DESIGN31.SSB}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  green}
+		{DrawColor   green}
+		{Type        Other}
+	}
+	{Layer  5
+		{File        DESIGN31.DRD}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  orange}
+		{DrawColor   orange}
+		{Type        Other}
+	}
+}
+{Format Gerber
+	{Dialect           RS274X}
+	{m.n               3.4}
+	{Mode              Absolute}
+	{ZeroSuppression   Leading}
+	{Terminator        0x2a, 0xD, 0xA}
+	{Metric            No}
+	{Modal             No}
+	{UserData          Yes}
+	{Nets              No}
+	{Gcmds             Yes}
+	{CharSet           ASCII}
+	{Arcs360           No}
+	{ArcsModal         Yes}
+	{HonorCrLf         No}
+	{Comments          Yes}
+	{Flags             0}
+}

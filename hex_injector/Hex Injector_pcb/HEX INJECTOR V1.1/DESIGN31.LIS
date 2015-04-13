@@ -1,0 +1,159 @@
+Post Processor Report
+OrCAD FILE: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.MAX
+Thu Dec 04 16:33:29 2014
+
+*********************************************************
+
+Output file: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.BOT
+
+Aperture totals for D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.BOT:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      33 Flashes
+D11:  0.0827 ROUND  --       0 Draws,      18 Flashes
+D12:  0.0827 SQUARE --       0 Draws,       2 Flashes
+D14:  0.1102 x 0.0590 OBLONG    -----       6 Flashes
+D15:  0.0984 x 0.2165 OBLONG    -----       1 Flashes
+D16:  0.1890 x 0.0984 OBLONG    -----       2 Flashes
+D17:  0.0748 ROUND  --       0 Draws,      10 Flashes
+D18:  0.0748 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0590 x 0.1102 OBLONG    -----       7 Flashes
+D21:  0.0590 x 0.0787 RECTANGLE -----       2 Flashes
+D22:  0.0787 x 0.0236 RECTANGLE -----      10 Flashes
+D23:  0.0984 x 0.1220 RECTANGLE -----       1 Flashes
+D24:  0.0984 x 0.0394 RECTANGLE -----       3 Flashes
+D25:  0.0590 x 0.1102 RECTANGLE -----       1 Flashes
+D26:  0.0790 ROUND  --       0 Draws,       2 Flashes
+D27:  0.0079 ROUND  --      48 Draws,       0 Flashes
+D28:  0.0200 ROUND  --      14 Draws,       0 Flashes
+D29:  0.0300 ROUND  --       8 Draws,       0 Flashes
+D30:  0.0400 ROUND  --      70 Draws,       0 Flashes
+D31:  0.0120 ROUND  --     335 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     128 Flashes
+D52:  0.0590 x 0.0984 OBLONG    -----      16 Flashes
+D53:  0.0512 x 0.1102 OBLONG    -----      28 Flashes
+D54:  0.0180 ROUND  --      17 Draws,       0 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----     492 Draws,     272 Flashes
+
+*********************************************************
+
+Output file: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SMB
+
+Aperture totals for D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SMB:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      10 Flashes
+D11:  0.0827 ROUND  --       0 Draws,      33 Flashes
+D27:  0.0079 ROUND  --      48 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     128 Flashes
+D33:  0.0866 ROUND  --       0 Draws,      18 Flashes
+D34:  0.0866 SQUARE --       0 Draws,       2 Flashes
+D35:  0.1142 x 0.0630 OBLONG    -----       6 Flashes
+D36:  0.1024 x 0.2205 OBLONG    -----       1 Flashes
+D37:  0.1929 x 0.1024 OBLONG    -----       2 Flashes
+D38:  0.0787 SQUARE --       0 Draws,       2 Flashes
+D39:  0.0630 x 0.1142 OBLONG    -----       7 Flashes
+D41:  0.0630 x 0.0827 RECTANGLE -----       2 Flashes
+D42:  0.0827 x 0.0276 RECTANGLE -----      10 Flashes
+D43:  0.1024 x 0.1260 RECTANGLE -----       1 Flashes
+D44:  0.1024 x 0.0433 RECTANGLE -----       3 Flashes
+D45:  0.0630 x 0.1142 RECTANGLE -----       1 Flashes
+D46:  0.0830 ROUND  --       0 Draws,       2 Flashes
+D55:  0.0630 x 0.1024 OBLONG    -----      16 Flashes
+D56:  0.0551 x 0.1142 OBLONG    -----      28 Flashes
+---------------------------------------------------------
+ 19 D-Codes      -----      48 Draws,     272 Flashes
+
+*********************************************************
+
+Output file: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SST
+
+Aperture totals for D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SST:
+---------------------------------------------------------
+D27:  0.0079 ROUND  --     284 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     128 Flashes
+D47:  0.0100 ROUND  --      12 Draws,       0 Flashes
+D48:  0.0020 ROUND  --     342 Draws,       0 Flashes
+D49:  0.0080 ROUND  --       7 Draws,       0 Flashes
+D51:  0.0060 ROUND  --     480 Draws,       0 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----    1125 Draws,     128 Flashes
+
+*********************************************************
+
+Output file: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SSB
+
+Aperture totals for D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.SSB:
+---------------------------------------------------------
+D27:  0.0079 ROUND  --      68 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     128 Flashes
+D51:  0.0060 ROUND  --      23 Draws,       0 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----      91 Draws,     128 Flashes
+
+*********************************************************
+
+Output file: D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.DRD
+
+Aperture totals for D:\ATRIM ELECTRONICS(P)LTD\MODULES\81.HEX INJECTOR\HEX INJECTOR V1.1\DESIGN31.DRD:
+---------------------------------------------------------
+D27:  0.0079 ROUND  --       4 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     128 Flashes
+D47:  0.0100 ROUND  --     577 Draws,       0 Flashes
+D50:  0.0551 ROUND  --       3 Draws,       0 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----     584 Draws,     128 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0787 ROUND  --       0 Draws,      43 Flashes
+D11:  0.0827 ROUND  --       0 Draws,      51 Flashes
+D12:  0.0827 SQUARE --       0 Draws,       2 Flashes
+D14:  0.1102 x 0.0590 OBLONG    -----       6 Flashes
+D15:  0.0984 x 0.2165 OBLONG    -----       1 Flashes
+D16:  0.1890 x 0.0984 OBLONG    -----       2 Flashes
+D17:  0.0748 ROUND  --       0 Draws,      10 Flashes
+D18:  0.0748 SQUARE --       0 Draws,       2 Flashes
+D19:  0.0590 x 0.1102 OBLONG    -----       7 Flashes
+D21:  0.0590 x 0.0787 RECTANGLE -----       2 Flashes
+D22:  0.0787 x 0.0236 RECTANGLE -----      10 Flashes
+D23:  0.0984 x 0.1220 RECTANGLE -----       1 Flashes
+D24:  0.0984 x 0.0394 RECTANGLE -----       3 Flashes
+D25:  0.0590 x 0.1102 RECTANGLE -----       1 Flashes
+D26:  0.0790 ROUND  --       0 Draws,       2 Flashes
+D27:  0.0079 ROUND  --     452 Draws,       0 Flashes
+D28:  0.0200 ROUND  --      14 Draws,       0 Flashes
+D29:  0.0300 ROUND  --       8 Draws,       0 Flashes
+D30:  0.0400 ROUND  --      70 Draws,       0 Flashes
+D31:  0.0120 ROUND  --     335 Draws,       0 Flashes
+D32:  0.0140 ROUND  --       0 Draws,     640 Flashes
+D33:  0.0866 ROUND  --       0 Draws,      18 Flashes
+D34:  0.0866 SQUARE --       0 Draws,       2 Flashes
+D35:  0.1142 x 0.0630 OBLONG    -----       6 Flashes
+D36:  0.1024 x 0.2205 OBLONG    -----       1 Flashes
+D37:  0.1929 x 0.1024 OBLONG    -----       2 Flashes
+D38:  0.0787 SQUARE --       0 Draws,       2 Flashes
+D39:  0.0630 x 0.1142 OBLONG    -----       7 Flashes
+D41:  0.0630 x 0.0827 RECTANGLE -----       2 Flashes
+D42:  0.0827 x 0.0276 RECTANGLE -----      10 Flashes
+D43:  0.1024 x 0.1260 RECTANGLE -----       1 Flashes
+D44:  0.1024 x 0.0433 RECTANGLE -----       3 Flashes
+D45:  0.0630 x 0.1142 RECTANGLE -----       1 Flashes
+D46:  0.0830 ROUND  --       0 Draws,       2 Flashes
+D47:  0.0100 ROUND  --     589 Draws,       0 Flashes
+D48:  0.0020 ROUND  --     342 Draws,       0 Flashes
+D49:  0.0080 ROUND  --       7 Draws,       0 Flashes
+D50:  0.0551 ROUND  --       3 Draws,       0 Flashes
+D51:  0.0060 ROUND  --     503 Draws,       0 Flashes
+D52:  0.0590 x 0.0984 OBLONG    -----      16 Flashes
+D53:  0.0512 x 0.1102 OBLONG    -----      28 Flashes
+D54:  0.0180 ROUND  --      17 Draws,       0 Flashes
+D55:  0.0630 x 0.1024 OBLONG    -----      16 Flashes
+D56:  0.0551 x 0.1142 OBLONG    -----      28 Flashes
+---------------------------------------------------------
+ 44 D-Codes      -----    2340 Draws,     928 Flashes
+
+
+No warnings or errors.
