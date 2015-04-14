@@ -1,3 +1,23 @@
+// Based on the Atmega hex file uploader sketch by Nick Gammon.
+// Original code at: https://github.com/nickgammon/arduino_sketches/blob/master/Atmega_Hex_Uploader
+// Modifications by: saurabhshandilya
+
+/*
+Copyright 2012 Nick Gammon.
+
+PERMISSION TO DISTRIBUTE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+*/
+
 
 const bool allowTargetToRun = true;  // if true, programming lines are freed when not programming
 
